@@ -1,6 +1,5 @@
 import React from "react";
 import axios from "axios";
-
 import SearchEngine from "./SearchEngine";
 
 export default function Weather() {
@@ -15,7 +14,7 @@ export default function Weather() {
     
     return (
         <div>
-          <h2>Hello World 002</h2>
+          <h2>Hello React Weather App</h2>
           <SearchEngine />
         </div>
     );
