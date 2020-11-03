@@ -9,9 +9,7 @@ export default function Weather() {
             <h2>Hello React Weather App</h2>
             <SearchEngine />
           </div>
-          <div>
-              <a href="https://github.com/ajdaflajs/weather-react-app">GitHub</a>
-          </div>
+          <a href="https://github.com/ajdaflajs/weather-react-app">GitHub</a>
         </div>
 
     );
