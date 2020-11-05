@@ -51,7 +51,7 @@ export default function SearchEngine() {
           <li>Humidity: {weather.humidity}%</li>
           <li>Wind: {weather.wind}km/h</li>
           <li>
-            <img src={weather.icon} alt={weather.description} />
+            <img src={weather.icon} alt={weather.description}/>
           </li>
         </ul>
       </div>
