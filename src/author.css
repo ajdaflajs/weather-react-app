@@ -1,0 +1,14 @@
+.Author {
+  color: white;
+  padding: 10px;
+  margin: 10px;
+}
+
+.Link {
+  color: white;
+  text-decoration: none;
+}
+
+.Link:hover {
+  color: #109cff;
+}
