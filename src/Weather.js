@@ -6,11 +6,15 @@ export default function Weather() {
     return (
         <div className="Container">
           <div className="SearchEngine">
-            <h2>Hello React Weather App</h2>
+            <h2>React Weather App</h2>
             <SearchEngine />
           </div>
           <br />
-          <a href="https://github.com/ajdaflajs/weather-react-app">GitHub</a>
+          <p>Created by <span>Ajda Flajs</span>
+            <br/>
+            <a href="https://github.com/ajdaflajs/weather-react-app">GitHub</a>
+          </p>
+          
         </div>
 
     );
