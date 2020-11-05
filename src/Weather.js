@@ -6,7 +6,6 @@ export default function Weather() {
     return (
         <div className="Container">
           <div className="SearchEngine">
-            <h2>React Weather App</h2>
             <SearchEngine />
           </div>
           <br />
