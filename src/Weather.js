@@ -5,11 +5,16 @@ import Footer from "./Footer";
 export default function Weather() {
        
     return (
-        <div className="Header">
-          <div className="SearchEngine">
+        <div className="Weather">
+          <div className="Header">
             <SearchEngine />
           </div>
-          <Footer />
+          <div className="Body">
+            
+          </div>
+          <div className="Footer">
+            <Footer />
+          </div>
         </div>
 
     );
