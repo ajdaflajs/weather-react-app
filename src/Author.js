@@ -5,11 +5,11 @@ export default function Author() {
     return (
       <div className="Author">
         <div>Created by 
-            <a href="https://www.linkedin.com/in/ajdaflajs/" target="_blank">
+            <a href="https://www.linkedin.com/in/ajdaflajs/" target="_blank" rel="noreferrer">
               <span className="Link"> Ajda Flajs</span>
             </a>
         <br/>
-        <a href="https://github.com/ajdaflajs/weather-react-app" target="_blank">
+        <a href="https://github.com/ajdaflajs/weather-react-app" target="_blank" rel="noreferrer">
             <span className="Link">GitHub</span>
         </a>
         </div>
