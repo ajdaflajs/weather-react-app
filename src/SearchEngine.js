@@ -44,7 +44,7 @@ export default function SearchEngine() {
 
   if (loaded) {
     return (
-      <div className="Search-Result">
+      <div className="Search-result">
         {form}
         <ul>
           <li>Temperature: {Math.round(weather.temperature)}°C</li>
