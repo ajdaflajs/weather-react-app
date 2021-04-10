@@ -5,7 +5,7 @@ import React from "react";
 export default function MainForecast(){
     return(
         <div className="MainForecast">
-            JOJO
+            Main Forecast
         </div>
     );
 
