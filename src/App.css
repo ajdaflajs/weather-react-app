@@ -1,7 +1,5 @@
 .App {
   text-align: center;
-  border: 2px solid;
-  border-radius: 20px;
   color: rgb(82, 75, 75);
   background-image: linear-gradient(
     -225deg,
@@ -9,9 +7,8 @@
     #c5c1ff 56%,
     #ffbac3 100%
   );
-  padding: 10px;
-  width: 600px;
-  margin: 20px;
+  width: 100%;
+  margin: auto;
 }
 
 li {
