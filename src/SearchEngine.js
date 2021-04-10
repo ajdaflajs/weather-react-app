@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "./searchEngine.css";
 import axios from "axios";
 
 export default function SearchEngine() {
@@ -43,7 +44,7 @@ export default function SearchEngine() {
 
   if (loaded) {
     return (
-      <div>
+      <div className="Search-Result">
         {form}
         <ul>
           <li>Temperature: {Math.round(weather.temperature)}°C</li>
