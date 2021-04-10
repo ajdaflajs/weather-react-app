@@ -15,3 +15,7 @@ export default function Weather() {
     );
     
 }
+
+// results from the searchEngine displays the weather forecast in the SearchEngine box and should be displayed in the MainForecast box in reality!!!
+// fix that the forecast for a city is displayed correctly in the MainForecast box and not SearchEngine!!!
+// or change SearchEngine into MainForecast and delite the one you do not need
