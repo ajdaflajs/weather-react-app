@@ -1,7 +1,7 @@
 import React from "react";
 import Weather from "./Weather";
 import Author from "./Author";
-import './App.css';
+import './app.css';
 
 function App() {
   return (
