@@ -2,6 +2,7 @@ import React from "react";
 import SearchEngine from "./SearchEngine";
 import MainForecast from "./MainForecast"
 import WeeklyForecast from "./WeeklyForecast";
+import "./weather.css";
 
 export default function Weather() {
        
